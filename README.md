@@ -1,1 +1,3 @@
-# Set-up-managed-configurations-browser
+# Set-up-managed-configurations
+קובץ קונפיג בסיסי לניהול תוצרה לדפדפן עבור מנהלי IT
+משוחרר ללא רישיון
