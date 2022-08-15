@@ -1,7 +1,3 @@
-# Set-up-managed-configurations
+A basic configuration file for IT administrators to set up the Google Chrome browser for whitelist/blacklist.
 <br>
-קובץ קונפיג בסיסי לניהול תוצרה לדפדפן עבור מנהלי IT
-<br>
-משוחרר ללא רישיון
-<br>
-מבוסס על התיעוד הרשמי: https://chromeenterprise.google/policies/
+Based on Google Chrome documentation: https://chromeenterprise.google/policies/
